@@ -1,0 +1,16 @@
+{
+  "name": "laijim/playbook-conclusion",
+  "authors": [
+    {
+      "name": "JIM LAI",
+      "email": "laijim@outlook.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Laijim\\PlaybookConclusion\\": "src/"
+    }
+  }
+}
